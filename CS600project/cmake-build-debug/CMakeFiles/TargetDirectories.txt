@@ -1,0 +1,3 @@
+/Users/yeke/CLionProjects/CS600project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yeke/CLionProjects/CS600project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yeke/CLionProjects/CS600project/cmake-build-debug/CMakeFiles/CS600project.dir

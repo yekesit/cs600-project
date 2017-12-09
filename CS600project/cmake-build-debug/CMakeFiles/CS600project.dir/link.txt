@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/CS600project.dir/main.cpp.o CMakeFiles/CS600project.dir/Trie.cpp.o CMakeFiles/CS600project.dir/Crawler.cpp.o  -o CS600project  -L/Users/yeke/curl/curl/lib -Wl,-rpath,/Users/yeke/curl/curl/lib -lcurl -lcurl 

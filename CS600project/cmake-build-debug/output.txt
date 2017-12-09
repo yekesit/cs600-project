@@ -1,0 +1,17 @@
+http://lucumr.pocoo.org/2016/5/18/for-our-children/
+http://lucumr.pocoo.org/2015/2/17/ui-and-hidden-consistency/
+http://lucumr.pocoo.org/2015/4/13/bitcoin-and-cryptocurrencies/
+http://lucumr.pocoo.org/2014/11/6/error-handling-in-rust/
+http://lucumr.pocoo.org/2015/4/28/unintended-affordances/
+http://lucumr.pocoo.org/2016/7/10/rust-rest/
+http://lucumr.pocoo.org/2015/4/8/microservices-with-nameko/
+http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/
+http://lucumr.pocoo.org/2015/8/9/on-countries-and-citizenships/
+http://lucumr.pocoo.org/2014/11/2/payments-in-the-future/
+http://lucumr.pocoo.org/2015/10/6/end-of-safe-harbor/
+http://lucumr.pocoo.org/2015/11/18/pythons-hidden-re-gems/
+http://lucumr.pocoo.org/2015/8/31/the-thing-about-samsung-pay/
+http://lucumr.pocoo.org/2016/3/24/open-source-trust-scaling/
+http://lucumr.pocoo.org/2016/10/30/i-dont-understand-asyncio/
+http://lucumr.pocoo.org/2016/11/5/be-careful-about-what-you-dislike/
+http://lucumr.pocoo.org/2017/6/5/diversity-in-technology/
