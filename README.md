@@ -26,4 +26,4 @@
     Use this function to initialize the maps and set every value "false".
 #### vector<string> merge_common and void find_common_Url
     Both two functoins are used to merge the websites given by Trie tree through searching all keywords.
-    After get all common Urls for every keyword, the Urls will be sorted by the number of appearance times of all keywords in     every website.
+    After get all common Urls for every keyword, the Urls will be sorted by the number of appearance times of all keywords every website.
