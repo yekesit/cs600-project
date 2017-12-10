@@ -29,4 +29,5 @@
     After get all common Urls for every keyword, the Urls will be sorted by the number of appearance times of all keywords
     in every website.
 # Boundary
-  The limit number of keywords are 10. Like, if we search "This is a project for search engine implemented by Trie tree #".     Then
+  1.The limit number of keywords are 10. Like, if we search "This is a project for search engine implemented by Trie tree #".     Then words after string "Trie" will be ignored.
+  2.The keywords with special character will be only handled the part before the character. Like, if the keyword is "good.good", the engine will only handle the first "good" and ignored the second "good".
