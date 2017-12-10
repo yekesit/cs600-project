@@ -13,7 +13,6 @@
     void Insert(). Insert a word into the Trie tree, and add the URL in the vector of the last character.
     TrieNode* Search(). Search a word, if it exists, return a pointer linked with a URL list.
 # Web Crawler
-###
   In the file Crawler.cpp, implemented by external library Curl. The library is attached on my github, if run the code, please   import the library.
 # Running
   There are some functions in file main.cpp.
@@ -27,4 +26,4 @@
     Use this function to initialize the maps and set every value "false".
 #### vector<string> merge_common and void find_common_Url
     Both two functoins are used to merge the websites given by Trie tree through searching all keywords.
-    
+    After get all common Urls for every keyword, the Urls will be sorted by the number of appearance times of all keywords in     every website.
