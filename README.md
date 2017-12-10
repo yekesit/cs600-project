@@ -3,7 +3,7 @@
 # Constructor of the Trie tree
   In the file Trie.h, there are two classes.
     Class TrieNode:
-    The node in Trie tree is defined by class TrieNode.\<br>
+    The node in Trie tree is defined by class TrieNode. <br>
     And for every node there are some attributes:
     Isword. Judge if this node represents a word.
     Node_Child. Save every character.
