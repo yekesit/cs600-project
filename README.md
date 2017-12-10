@@ -1,7 +1,7 @@
 # CS600-project
   This is a simple search engine implemented with Trie tree.
 # Constructor of the Trie tree
-  In the file Trie.h, there are two classes.
+  In the file Trie.h, there are two classes. And the Trie tree is implemented by file Trie.cpp.
 ### Class TrieNode:
     The node in Trie tree is defined by class TrieNode. And for every node there are some attributes: 
     Isword. Judge if this node represents a word. 
