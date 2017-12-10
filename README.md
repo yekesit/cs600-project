@@ -7,7 +7,7 @@
     Isword. Judge if this node represents a word. 
     Node_Child. Save every character. 
     vector<string>. If this node represents a word, this node will be linked to a URL list. 
-    map<string,int>. Record the number of appearence times of the word in every URL. 
+    map<string,int>. Record the number of appearance times of the word in every URL. 
 ### Class Trie:
     This class is used to make a Trie tree marked with the root node and two functions:
     void Insert(). Insert a word into the Trie tree, and add the URL in the vector of the last character.
@@ -25,7 +25,7 @@
     There is a global variate to record stop words, map<string,bool> maps.
     Use this function to initialize the maps and set every value "false".
 #### vector<string> merge_common and void find_common_Url
-    Both two functoins are used to merge the websites given by Trie tree through searching all keywords.
+    Both two functions are used to merge the websites given by Trie tree through searching all keywords.
     After get all common Urls for every keyword, the Urls will be sorted by the number of appearance times of all keywords
     in every website.
 # Boundary
