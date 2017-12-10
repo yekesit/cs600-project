@@ -14,3 +14,7 @@
     TrieNode* Search(). Search a word, if it exists, return a pointer linked with a URL list.
 # Web Crawler
   In the file Crawler.cpp, implemented by external library Curl. The library is attached on my github, if run the code, please   import the library.
+# Running
+  There are some functions in file main.cpp.
+### Dictionary_Url_init
+    Save all Urls from the file input.txt 
