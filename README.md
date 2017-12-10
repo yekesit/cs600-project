@@ -16,5 +16,5 @@
   In the file Crawler.cpp, implemented by external library Curl. The library is attached on my github, if run the code, please   import the library.
 # Running
   There are some functions in file main.cpp.
-### Dictionary_Url_init
+#### Dictionary_Url_init
     Save all Urls from the file input.txt 
