@@ -16,5 +16,14 @@
   In the file Crawler.cpp, implemented by external library Curl. The library is attached on my github, if run the code, please   import the library.
 # Running
   There are some functions in file main.cpp.
-#### Dictionary_Url_init
+#### void Dictionary_Url_init
     Save all Urls from the file input.txt 
+#### void Dictionary_content_init
+    First use Web Crawler to get all contents from the website and put them into file transfer.txt.
+    Then read from transfer.txt and insert every valid word into Trie tree.
+#### maps_init
+    There is a global variate to record stop words, map<string,bool> maps.
+    Use this function to initialize the maps and set every value "false".
+#### vector<string> merge_common and void find_common_Url
+    Both two functoins are used to merge the websites given by Trie tree through searching all keywords.
+    
