@@ -30,4 +30,4 @@
     in every website.
 # Boundary
   1.The limit number of keywords are 10. Like, if we search "This is a project for search engine implemented by Trie tree #".     Then words after string "Trie" will be ignored.<br>
-  2.The keywords with special character will be only handled the part before the character. Like, if the keyword is "good.good", the engine will only handle the first "good" and ignored the second "good".
+  2.The keywords with special character will be only handled the part before the character. Like, if the keyword is               "good.good", the engine will only handle the first "good" and ignored the second "good".
